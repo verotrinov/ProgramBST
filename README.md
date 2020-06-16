@@ -2,7 +2,7 @@
 Program ini disusun oleh : Veronika Trinovianti (NIM: 1910512020), mahasiswi UPN Veteran Jakarta untuk Program Studi Sistem Informasi. Email : verotrinov@gmail.com
 
 # Deskripsi Program
-Program yang disajikan dalam bentuk menu berbasis console ini adalah sebuah program sederhana sebagai bentuk implementasi dasar dari Binary Search Tree. Fungsi utama dari program ini adalah untuk menerima inputan dan memasukkannya ke dalam Binary Search Tree lalu mengelola data sesuai perintah pengguna. Inputan yang diterima oleh program ini adalah bilangan integer dengan jumlah bilangan tak terbatas. Pada program ini fungsi main hanya berfungsi untuk mengatur menu yang memanggil sub-menu yang disediakan program.
+Program yang disajikan dalam bentuk menu berbasis console dengan bahasa pemrograman C++ ini adalah sebuah program sederhana sebagai bentuk implementasi dasar dari Binary Search Tree. Fungsi utama dari program ini adalah untuk menerima inputan dan memasukkannya ke dalam Binary Search Tree lalu mengelola data sesuai perintah pengguna. Inputan yang diterima oleh program ini adalah bilangan integer dengan jumlah bilangan tak terbatas. Pada program ini fungsi main hanya berfungsi untuk mengatur menu yang memanggil sub-menu yang disediakan program.
 
 # Fitur
 Fitur yang tersedia dalam program ini antara lain : insert bilangan ke Binary Search Tree, cetak data Binary Search Tree secara pre-order, in-order, dan post-order, mencari bilangan dalam data Binary Search Tree, menghapus simpul dalam data Binary Search Tree, menampilkan nilai terbesar dan terkecil dari Binary Search Tree, dan mereset data pada Binary Search Tree.
